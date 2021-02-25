@@ -22,6 +22,11 @@ npm start
 
 ## Testing
 
+```bash
+npm run test
+```
+
+
 ```javascript
 import React from 'react';
 import renderer from 'react-test-renderer';
