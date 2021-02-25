@@ -15,6 +15,10 @@ npm install
 npm start
 ```
 
+## Screenshots
+
+<img src="https://github.com/MNoumanImran/NyTimes/blob/main/screenshots/nyTimes1.jpeg">
+
 
 ## Testing
 
@@ -28,4 +32,5 @@ test('renders correctly', () => {
   expect(tree).toMatchSnapshot();
 });
 ```
+
 
