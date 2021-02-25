@@ -63,6 +63,13 @@
   "devDependencies": {
     "babel-preset-expo": "^8.2.1"
   },
+  
+    "scripts": {
+      "test": "jest"
+    },
+    "jest": {
+      "preset": "react-native"
+    },
   "keywords": [
     "argon react native",
     "argon design system",
