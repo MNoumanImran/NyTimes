@@ -7,7 +7,8 @@ import {
   Text,
   StyleSheet,
   View,
-  FlatList
+  FlatList,
+  Alert
 } from 'react-native';
 import {SearchBar} from 'react-native-elements';
 import { Icon ,Avatar,Card} from 'react-native-elements'
