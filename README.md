@@ -9,7 +9,7 @@ git clone https://github.com/MNoumanImran/NyTimes.git
 cd NyTimes
 ```
 ```bash
-npm i
+npm install
 ```
 ```bash
 npm start
